@@ -118,15 +118,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rudransh89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&rank_icon=github" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudransh89&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0" alt="GitHub Streak" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rudransh89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&rank_icon=github" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=e2e8f0&langs_count=8" alt="Top Languages" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudransh89&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=00d4ff&line=a855f7&point=00d4ff&area=true" alt="Contribution Graph" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudransh89&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Rudransh89&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=00d4ff&line=a855f7&point=00d4ff&area=true)
 
 </div>
 
