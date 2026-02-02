@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rudransh89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&rank_icon=github" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudransh89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0)
 
 </div>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=e2e8f0)
 
 </div>
 
@@ -146,7 +146,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rudransh89&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/Rudransh89)
+![trophy](https://github-profile-trophy.vercel.app/?username=Rudransh89&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
