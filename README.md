@@ -144,9 +144,18 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rudransh89&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+<div align="center">
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudransh89&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudransh89&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudransh89&theme=tokyonight)
 
 </div>
 
