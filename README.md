@@ -114,48 +114,30 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudransh89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudransh89&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudransh89&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0" alt="GitHub Streak" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rudransh89&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=00d4ff&line=a855f7&point=00d4ff&area=true)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=e2e8f0)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudransh89&theme=tokyonight)
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Rudransh89&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=00d4ff&line=a855f7&point=00d4ff&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudransh89&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudransh89&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudransh89&theme=tokyonight)
+![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudransh89&theme=tokyonight)
+![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudransh89&theme=tokyonight)
 
 </div>
 
